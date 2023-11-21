@@ -1,0 +1,16 @@
+{
+  "name": "ofertaxco2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./input.css -o ./build/css/styles.css",
+    "watch": "npx tailwindcss -i ./input.css -o ./build/css/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "nicofra14",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}

@@ -671,10 +671,6 @@ video {
   margin-bottom: 2.5rem;
 }
 
-.mb-12 {
-  margin-bottom: 3rem;
-}
-
 .mb-24 {
   margin-bottom: 6rem;
 }
@@ -843,14 +839,6 @@ video {
 
 .grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
-}
-
-.grid-cols-3 {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-}
-
-.grid-cols-4 {
-  grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
 .grid-cols-6 {
@@ -1060,11 +1048,6 @@ video {
 
 .font-principal {
   font-family: "Bebas Neue", sans-serif;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
 }
 
 .text-4xl {
@@ -1403,10 +1386,6 @@ video {
 
   .xl\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .xl\:grid-cols-5 {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 
   .xl\:grid-cols-6 {
